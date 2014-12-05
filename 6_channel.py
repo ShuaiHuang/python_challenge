@@ -17,7 +17,7 @@ import os, re, zipfile
 #     temp=re.findall(r'[0-9]+$', FileContent)
 
 Comments=[]
-ZipFileObj=zipfile.ZipFile('5_channel.zip', 'r')
+ZipFileObj=zipfile.ZipFile('6_channel.zip', 'r')
 Prefix='90052'
 Surfix='.txt'
 
